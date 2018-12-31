@@ -23,7 +23,6 @@ def paint(stars):
         print(''.join(line))
 
 
-
 def main(stars):
     i = 0
     xspan = yspan = 1000000
